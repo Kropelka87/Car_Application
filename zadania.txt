@@ -1,0 +1,18 @@
+Zadania:
+
+1. Stworzyæ nowe klasy- class Truck oraz class Motorcycle 
+ 
+2. Przy dodawaniu nowego produktu mamy mieæ mo¿liwoœæ 
+wybrania czy to Car, Truck czy Motorcycle 
+ 
+3. CAr i Motorcycle ma mieæ propercje pojemnoœæ silnika oraz 
+zielony border jeœli jest poni¿ej 125cm3 - przy motorze oczywiscie. 
+ 
+4. Truck ma mieæ propercjê ³adownoœæ oraz czerwony border jesli 
+powyzej 50t
+ 
+5. Wszystkie typy pojazdów maj¹ mieæ takie same opcje, 
+sprzeda¿y, ustawieñ i usuwania pojazdów i ich cena 
+ma wliczaæ siê do ceny floty.
+ 
+6. Na starcie aplikacji mamy miec 3 pojazdy - po jednym z klas 
